@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dotenv": "^9.0.1",
+    "node-fetch": "^2.6.1",
+    "node-vk-bot-api": "^3.5.0",
+    "nodemon": "^2.0.7"
+  },
+  "name": "vkbot",
+  "version": "0.0.1",
+  "description": "valute",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "author": "chaotic mp4",
+  "license": "MIT"
+}
